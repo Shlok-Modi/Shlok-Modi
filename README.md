@@ -38,20 +38,37 @@ B.Tech CSE student at NIT Delhi, focused on full-stack and backend engineering �
 
 ## ⚙️ Tech Stack
 
+**Languages**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+</p>
+
+**Frontend**
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+</p>
+
+**Backend**
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+</p>
+
+**Database**
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</p>
+
+**Tools**
+<p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
@@ -124,6 +141,7 @@ A multi-tier pipeline built for a systems programming course: core password logi
 | | |
 |---|---|
 | 🥈 | **Built With Bharat National Hackathon** — 2nd Runner-Up (300+ teams), finals at Microsoft Gurugram |
+| 🏅 | **HackIndia Spark 6** — Top 50 among 1,300+ teams |
 | 🎯 | **JEE Main & Advanced** — AIR 12,509 in Mains (Top 0.9% of 1.4M+ candidates), AIR 13,200 in Advanced |
 | 📜 | **Java Programming** — Udemy Certification (in progress) |
 
