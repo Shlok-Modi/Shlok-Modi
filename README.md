@@ -112,7 +112,7 @@ A multi-tier pipeline built for a systems programming course: core password logi
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shlok_Modi_05?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/Shlok_Modi_05?theme=dark&font=Karla" alt="LeetCode Stats">
 </p>
 
 <p align="center">
