@@ -11,19 +11,20 @@
 <br>
 
 ```
-╭──────────────────────────────────────────────────────────╮
-│  SHLOK MODI                                               │
-│  Software Developer — Backend-leaning Full Stack          │
-├──────────────────────────────────────────────────────────┤
-│  NOW BUILDING                                              │
-│  TripZ — AI travel planner   ████████████░░░░░░  60%      │
-│                                                              │
-│  STACK              PROJECTS              DSA              │
-│  Node.js            PaperDesk             170+ solved       │
-│  Express.js         FinSight              104 Easy          │
-│  PostgreSQL         TripZ                 54 Medium         │
-│  JavaScript         AI Driver Safety      3 Hard             │
-╰──────────────────────────────────────────────────────────╯
+$ whoami
+  Shlok Modi — Software Developer, Backend-leaning Full Stack
+
+$ now_building
+  TripZ (AI travel planner) [======>.............] 60%
+
+$ stack
+  Node.js · Express.js · PostgreSQL · MongoDB · JavaScript
+
+$ projects
+  PaperDesk · FinSight · TripZ · AI Driver Safety System
+
+$ dsa --leetcode
+  170+ solved  |  104 Easy · 54 Medium · 3 Hard
 ```
 
 <br>
