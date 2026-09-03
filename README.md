@@ -116,10 +116,6 @@ A multi-tier pipeline built for a systems programming course: core password logi
   <img src="https://leetcard.jacoblin.cool/Shlok_Modi_05?theme=dark&font=Karla" alt="LeetCode Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shlok-Modi&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlok-Modi&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
 
 <br>
 
