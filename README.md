@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shlok Modi 👋</h1>
-<h3 align="center">Backend Focused Full-Stack Developer · CSE @ NIT Delhi · Building Things that Matters</h3>
+<h3 align="center">CSE @ NIT Delhi · Full-Stack Developer Specializing Backend · Building Things that Matters</h3>
 
 <p align="center">
   <a href="https://github.com/Shlok-Modi"><img src="https://img.shields.io/badge/GitHub-Shlok--Modi-181717?style=flat-square&logo=github"></a>
