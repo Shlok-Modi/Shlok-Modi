@@ -16,6 +16,7 @@ $ whoami
 
 $ now_building
   TripZ (AI travel planner) [======>.............] 60%
+  FinSight (post-hackathon polish & feature additions)
 
 $ stack
   Node.js · Express.js · PostgreSQL · MongoDB · JavaScript
