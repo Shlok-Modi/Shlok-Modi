@@ -25,7 +25,7 @@ $ projects
   PaperDesk · FinSight · TripZ · AI Driver Safety System
 
 $ dsa --leetcode
-  170+ solved  |  104 Easy · 54 Medium · 3 Hard
+  200+ solved  |  104 Easy · 54 Medium · 3 Hard
 ```
 
 <br>
@@ -149,7 +149,7 @@ A multi-tier pipeline built for a systems programming course: core password logi
 
 ## 🎨 Beyond Code
 
-Design Team Volunteer at **UpVision** (NIT Delhi's technical club) — crafting UI/UX assets, posters, and social media graphics in Figma. Incoming Design Team Executive from Sep 2026.
+Design Team Executive at **UpVision** (NIT Delhi's technical club) — crafting UI/UX assets, posters, and social media graphics in Figma. Incoming Design Team Executive from Sep 2026.
 
 <br>
 
