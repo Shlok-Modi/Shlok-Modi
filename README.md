@@ -25,7 +25,7 @@ $ projects
   PaperDesk · FinSight · TripZ · AI Driver Safety System
 
 $ dsa --leetcode
-  200+ solved  |  104 Easy · 54 Medium · 3 Hard
+  200+ solved  |  125 Easy · 76 Medium · 6 Hard
 ```
 
 <br>
